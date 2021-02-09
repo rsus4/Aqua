@@ -12,7 +12,7 @@ Aqua is a bottle that tracks the quality and quantity of water using Arduino mic
 ![](Screenshot%202021-02-09%20at%203.20.08%20PM.png)
 
 ## Need Help? 🤝
-Feel free to make bug reports on our issues. You can reach out to either of us in case you need further assistance. 
+Feel free to make bug reports on our issues. You can reach out to any of us in case you need further assistance. 
 
 *Contact us:*
 
